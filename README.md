@@ -1,0 +1,2 @@
+# autoupdate
+Aplicacion auto actualizable
